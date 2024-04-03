@@ -1,1 +1,3 @@
 ## STW7089CEM: INTRODUCTION TO STATISTICAL METHODS FOR DATA SCIENCE
+
+youtube link: https://youtu.be/jVqPw2USoqs
